@@ -1,0 +1,116 @@
+fiz algumas alterações no sistema, na verdade, fiz várias e mechei em vários arquivos. Queria que painel administrativo ficasse separado, algo  como portal/admin1234 (para não ficar tão óbvio) e gostaria de arquivo extra, um robots.txt (nao sei se o nome é esse) para evitar o indexação da página de index. Quero fazer isso, alem de remover o icone de engrenagem da pagina principal, para evitar "hackers" e tentativas de invasão.
+
+ia.pro.br **
+in.net.br **
+co.app.br **
+da.com.br **
+2w.com.br **
+dr.rio.br **
+
+2w.com.br
+2z.net.br
+4u.pro.br
+4y.com.br
+5g.app.br
+5g.seg.br
+5g.tv.br
+5k.net.br
+5m.agr.br
+5m.ind.br
+5p.dev.br
+6r.dev.br
+6r.ind.br
+6z.dev.br
+6z.ind.br
+7a.net.br
+7k.dev.br
+7u.dev.br
+9d.dev.br
+9f.ind.br
+9t.net.br
+a3.app.br
+a4.art.br
+a5.art.br
+ai.imb.br
+bg.app.br
+bl.wiki.br
+bp.arq.br
+bs.mus.br
+bt.eng.br
+cn.srv.br
+co.app.br **
+cw.ind.br
+da.com.br **
+da.tv.br
+dc.net.br
+dg.org.br
+dh.imb.br
+dr.niteroi.br
+dr.rio.br
+du.dev.br
+ef.dev.br
+et.ind.br
+fa.dev.br
+fe.aparecida.br
+fe.tv.br
+g7.imb.br
+ga.tec.br
+gt.tur.br
+gu.net.br
+hb.org.br
+ia.pro.br **
+in.net.br **
+io.wiki.br
+j7.net.br
+ja.adv.br
+jh.wiki.br
+jm.agr.br
+js.net.br
+jz.net.br
+l2.app.br
+lb.app.br
+ls.adm.br
+m4.org.br
+me.tec.br
+mf.app.br
+mj.vlog.br
+na.tv.br
+nx.agr.br
+o3.vet.br
+of.com.br
+os.seg.br
+p5.ind.br
+p9.dev.br
+ph.adm.br
+pp.tec.br
+py.dev.br
+q2.blog.br
+qg.net.br
+r7.dev.br
+r7.eng.br
+ru.log.br
+sh.foz.br
+su.eti.br
+tk.vlog.br
+uo.tv.br
+up.ind.br
+up.tv.br
+ux.app.br
+ux.inf.br
+vb.app.br
+vl.ind.br
+vs.etc.br
+vw.blog.br
+vx.app.br
+we.campinas.br
+wi.net.br
+ww.feira.br
+ww.natal.br
+ww.rio.br
+ww.tv.br
+x1.app.br
+xa.net.br
+xc.com.br
+xd.dev.br
+xp.ind.br
+xp.net.br
