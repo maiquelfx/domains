@@ -8,7 +8,7 @@ Este projeto é um script em Python que permite filtrar listas de domínios com 
 
 ```text
 .
-├── filtro_dominios.py
+├── run.py
 ├── listas/
 │   └── lista-processo-liberacao.txt
 └── README.md
